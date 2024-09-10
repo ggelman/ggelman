@@ -38,7 +38,3 @@ Tenho 21 anos, sou de São Paulo. Sou apaixonada pelo universo da programação,
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-
-![Snake animation](https://github.com/ggelman/ggelman/blob/output/github-contribution-grid-snake.svg)
-
-
