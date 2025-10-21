@@ -17,7 +17,7 @@
 
 Tenho 23 anos, sou de São Paulo. Sou apaixonada pelo universo da programação, quanto mais aprendo mais me apaixono! 
 - 🔭 Atualmente estou trabalhando em engenharia de software como estagiária
-- 🌱 Atualmente estou aprendendo linguagens de programação como C#,.NET e Node.js
+- 🌱 Atualmente estou aprendendo linguagens de programação como C#, .NET e Node.js
 - 🎓 Estou cursando Sistemas de Informação na Fiap
 - 😄 Pronomes: Ela / Dela
 - ⚡ Curiosidade: Adoro aprender coisas aleatórias e estou com foco em computação quântica
