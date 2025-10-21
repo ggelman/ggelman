@@ -15,12 +15,12 @@
 <br>
 <br>
 
-Tenho 21 anos, sou de São Paulo. Sou apaixonada pelo universo da programação, quanto mais aprendo mais me apaixono! 
-- 🔭 Atualmente estou trabalhando em gerenciamento de projetos como estagiária
-- 🌱 Atualmente estou aprendendo frameworks e metodologias ágeis, Java, JavaScript, SQL
+Tenho 23 anos, sou de São Paulo. Sou apaixonada pelo universo da programação, quanto mais aprendo mais me apaixono! 
+- 🔭 Atualmente estou trabalhando em engenharia de software como estagiária
+- 🌱 Atualmente estou aprendendo linguagens de programação como C#,.NET e Node.js
 - 🎓 Estou cursando Sistemas de Informação na Fiap
 - 😄 Pronomes: Ela / Dela
-- ⚡ Curiosidade: Adoro aprender coisas aleatórias
+- ⚡ Curiosidade: Adoro aprender coisas aleatórias e estou com foco em computação quântica
 - ☕🎮 Adoro tomar café, adoro games e faço piadas ruins com frequência.
 
 <br>
